@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "id": 0,
+      "nombre": "Pastel de Vainilla ",
+      "precio": "100"
+    },
+    {
+      "id": 2,
+      "nombre": "Pastel aranda",
+      "precio": 60
+    },
+    {
+      "id": 3,
+      "nombre": "Pastel de Nuez",
+      "precio": 30
+    },
+    {
+      "nombre": "Pastel de Zanahoria",
+      "precio": "45",
+      "id": 4
+    },
+    {
+      "nombre": "tarta de aranda ",
+      "precio": "123",
+      "id": 5
+    },
+    {
+      "nombre": "Camaramelo ",
+      "precio": "90",
+      "id": 6
+    },
+    {
+      "nombre": "Cervezas ",
+      "precio": "300",
+      "id": 7
+    }
+  ]
+}
